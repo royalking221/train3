@@ -1,0 +1,13 @@
+otel Management
+Requirements in SRS Format
+1. Introduction
+Hotel Management involves operational aspects of hotel and functioning of user needs
+2. Purpose
+The main purpose of hotel management system is to provide better online platform for users to access the available hotels,rooms etc
+3. Scope and Objectives
+It has both functional and non functional requirements 
+The primary objectives of hotel management is to provide better hotel requirement information for users
+4. Functional requirements
+The hotel management has better requiremnts such as hotel availability, room availability , room ststus
+5. Non functional requirements
+System failure or downtime , error handling etc
